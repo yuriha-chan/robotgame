@@ -1,0 +1,19 @@
+{
+  "title": "回収ロボットゲーム in JavaScript",
+  "description": "部屋から物体を拾い集めるロボットをJavaScriptで作成する、学習用プログラミングゲームです。",
+  "editor": "編集",
+  "documentation": "ドキュメント",
+  "halt": "停止",
+  "resume": "再開",
+  "run": "実行",
+  "change": "変更",
+  "time": "時刻",
+  "points": "得点",
+  "randomSeed": "シード値",
+  "submitRobot": "採点",
+  "evaluation": "評価",
+  "progress": "進捗",
+  "averagePoints": "平均点",
+  "bestPoints": "最高点",
+  "worstPoints": "最低点"
+}
